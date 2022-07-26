@@ -12,5 +12,5 @@ print('hello world')
 3. a
 4. list
 
-![link to University Homepage](https://wun.ac.uk/wun/members/view/university-sheffield/)
+![link to University Homepage](https://wun.ac.uk/wp-content/uploads/logo-sheffield.png)
 [link to University Homepage](https://students.sheffield.ac.uk/)
